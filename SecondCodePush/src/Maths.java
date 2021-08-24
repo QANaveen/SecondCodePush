@@ -8,6 +8,7 @@ public class Maths {
 		int b = 10;
 		int c = a+b;
 		System.out.println("Result" +c);
+		System.out.println("Result of C" +c);
 	}
 
 }
